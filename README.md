@@ -1,7 +1,7 @@
 # StylCraft 
 
 
-## SytlCraft is an innovative interactive dress-up game designed to enhance user engagement by merging fashion with gamification. 
+## SytlCraft is an interactive dress-up game designed to enhance user engagement by merging fashion with gamification. 
 
 ## This prototype allows users to create and customize avatars, participate in fashion challenges, and browse outfits.
 
