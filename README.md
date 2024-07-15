@@ -13,6 +13,7 @@
 * Direct Shopping: Purchase outfits directly from Myntra, bridging virtual try-on and real-world shopping.
 * Style Learning: StylCraft learns users' preferences over time and recommends fashion items that match their style.
 
+![image](https://github.com/user-attachments/assets/471104b2-679b-4068-8247-4f809b3e9342)
 
 ## Technology Stack
 - Frontend: React Native for cross-platform development.
