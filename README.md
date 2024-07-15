@@ -6,7 +6,7 @@
 
 ## Features
 
-- Avatar Creation: Users can create and customize avatars with diverse skin tones, facial features, and body types.
+* Avatar Creation: Users can create and customize avatars with diverse skin tones, facial features, and body types.
 * Outfit Customization: Browse and try on a wide range of fashion items from Myntra, including tops, bottoms, shoes, and accessories.
 * Fashion Challenges: Participate in daily, weekly, and special occasion challenges, dressing avatars according to themes.
 * Community Interaction: Vote on other users' challenge entries, view leaderboards, and upload personal challenges.
