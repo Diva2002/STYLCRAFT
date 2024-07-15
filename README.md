@@ -1,7 +1,9 @@
 # StylCraft 
 
 
-## SytlCraft is an innovative interactive dress-up game designed to enhance user engagement with the Myntra app by merging fashion with gamification. This prototype showcases the core features of StylCraft, allowing users to create and customize avatars, participate in fashion challenges, and browse outfits from Myntra.
+## SytlCraft is an innovative interactive dress-up game designed to enhance user engagement by merging fashion with gamification. 
+
+## This prototype allows users to create and customize avatars, participate in fashion challenges, and browse outfits.
 
 
 ## Features
