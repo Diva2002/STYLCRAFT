@@ -17,10 +17,5 @@
 
 ![image](https://github.com/user-attachments/assets/471104b2-679b-4068-8247-4f809b3e9342)
 
-## Technology Stack
-- Frontend: React Native for cross-platform development.
-- Backend: Node.js with Express for server-side logic, MongoDB for data storage.
-- Avatar Customization: Meta Avatar SDK for creating and customizing avatars.
-
 
 ## Prototype Link: https://www.figma.com/proto/iPMwQa7WEuvBrrg20WKiey/StylCraft?t=19rdUwhbh1URZMGA-1
